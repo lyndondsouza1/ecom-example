@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "ecom-sample-79946"
+    "default": "ecom-sample-79946",
+    "stageecom1": "ecoms1"
   }
 }
